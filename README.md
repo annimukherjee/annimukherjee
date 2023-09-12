@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1> 
 <h1 align="center">I'm Aniruddha or Anni for short!</h1> 
-<h2 align="center">A passionate evergreen learner.</h2>
+<h2 align="center">I'm a passionate learner who likes to learn & do things!</h2>
 <br><br>
 
 
