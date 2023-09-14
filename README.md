@@ -23,12 +23,8 @@
   </p>
 
 
-- 🔭 I’m currently working on deploying ML applications and Web Applications
-- 🌱 I’m currently learning QML
-- 👯 I’m looking to collaborate on anything and everything!
-- 🤔 I’m looking for help with open-source collaborations and DevOps/MLOps
-- 📫 How to reach me: via my email
-- 😄 Pronouns: He/Him
+
+- 📫 How to reach me: ```mukh.aniruddha@gmail.com```
 - ⚡ Fun fact: I was born in Singapore!
 
 
