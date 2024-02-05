@@ -4,7 +4,9 @@
 
 
 <p align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=annimukherjee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annimukherjee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
+![Ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=annimukherjee&show_icons=true&layout=compact&theme=vision-friendly-dark) <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annimukherjee&theme=dark&background=000000)](https://git.io/streak-stats) <br>    
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=annimukherjee&color=45707a&style=flat-square" alt="GitHub page views">
 </p>
@@ -26,6 +28,11 @@
 - 📫 How to reach me: ```mukh.aniruddha@gmail.com```
 - ⚡ Fun fact: I was born in Singapore!
 
+
+
+---
+### ✍️Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&background=000000)
 
   <h1 align='center'>Skills:</h1>
   <p align="center">
