@@ -3,23 +3,28 @@
 <br><br>
 
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annimukherjee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annimukherjee&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+  </a>
+</p>
 
-<div align="center">
-  ![Ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=annimukherjee&show_icons=true&layout=compact&theme=vision-friendly-dark)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annimukherjee&show_icons=true&layout=compact&theme=vision-friendly-dark" alt="Ani's GitHub stats">
+</p>
 
-<div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annimukherjee&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=annimukherjee&theme=dark&background=000000" alt="GitHub Streak">
+  </a>
+</p>
 
 <br><br>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=annimukherjee&color=45707a&style=flat-square" alt="GitHub page views">
-</div>
+</p>
+
 
 
 <p align="center">
