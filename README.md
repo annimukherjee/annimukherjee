@@ -3,12 +3,23 @@
 <br><br>
 
 
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annimukherjee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annimukherjee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
-![Ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=annimukherjee&show_icons=true&layout=compact&theme=vision-friendly-dark) <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annimukherjee&theme=dark&background=000000)](https://git.io/streak-stats) <br>    
+<div align="center">
+  ![Ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=annimukherjee&show_icons=true&layout=compact&theme=vision-friendly-dark)
+</div>
+
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annimukherjee&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
+
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=annimukherjee&color=45707a&style=flat-square" alt="GitHub page views">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=annimukherjee&color=45707a&style=flat-square" alt="GitHub page views">
+</div>
 
 
 <p align="center">
