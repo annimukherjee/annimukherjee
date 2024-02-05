@@ -3,11 +3,12 @@
 <br><br>
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annimukherjee&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
   </a>
-</p>
+</p> -->
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=annimukherjee&show_icons=true&layout=compact&theme=vision-friendly-dark" alt="Ani's GitHub stats">
@@ -55,3 +56,7 @@
   <img align="center" src="https://skillicons.dev/icons?i=git,github,arduino,c,cpp,css,html,java,md,nodejs,py,express,nextjs,react,mysql,discord,figma" alt="Skills">
   <br>
 </p>
+
+
+
+
