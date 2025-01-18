@@ -13,6 +13,11 @@ I'm a passionate student and learner. <br>I like to learn. I also like to solve 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=annimukherjee&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=annimukherjee&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
