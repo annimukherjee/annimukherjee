@@ -10,6 +10,7 @@ I'm a passionate knowledge seeker.<br>I like to learn (build). I also like to so
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=annimukherjee&color=45707a&style=flat-square" alt="GitHub page views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=annimukherjee.annimukherjee" alt="visitors"/> 
 </p>
 
 
