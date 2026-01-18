@@ -1,10 +1,8 @@
-I'm a passionate knowledge seeker.<br>I like to learn (build). I also like to solve problems (and am not afraid to fail while doing so!).<br><br>I want to change things, and leave a lasting positive impact on society.
+I'm a passionate knowledge seeker.<br>I like to learn & build. I also like to solve problems (and am not afraid to fail while doing so!).<br><br>I want to change things, and leave a lasting positive impact on society.
 
 
 - 📫 How to reach me: ```mukh.aniruddha@gmail.com```
 - ⚡ Fun fact: I was born in Singapore!
-
-<br><br>
 
 ---
 
